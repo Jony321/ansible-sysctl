@@ -2,3 +2,4 @@
 sysctl_reload: true
 sysctl_set: true
 sysctl_settings: {}
+sysctl_file: /etc/sysctl.d/99-z-ansible.conf
